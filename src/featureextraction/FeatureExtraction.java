@@ -15,7 +15,7 @@ import utilities.Thresholder;
 public class FeatureExtraction {
 
     //Resources directory location
-    private static String resourceDirectory = "src/resources";
+    private static String resourceDirectory = "./resources";//must replace '.' with 'src' if running in IDE
 
     //Utillity variables
     private static LcDataLoader lcLoader;
