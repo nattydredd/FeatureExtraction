@@ -1,0 +1,70 @@
+@relation testNameSet
+
+@attribute starID numeric
+@attribute att#1 numeric
+@attribute att#2 numeric
+@attribute att#3 numeric
+@attribute att#4 numeric
+@attribute att#5 numeric
+@attribute att#6 numeric
+@attribute att#7 numeric
+@attribute att#8 numeric
+@attribute att#9 numeric
+@attribute att#10 numeric
+@attribute att#11 numeric
+@attribute att#12 numeric
+@attribute att#13 numeric
+@attribute att#14 numeric
+@attribute att#15 numeric
+@attribute att#16 numeric
+@attribute att#17 numeric
+@attribute att#18 numeric
+@attribute att#19 numeric
+@attribute att#20 numeric
+@attribute att#21 numeric
+@attribute att#22 numeric
+@attribute att#23 numeric
+@attribute att#24 numeric
+@attribute att#25 numeric
+@attribute att#26 numeric
+@attribute att#27 numeric
+@attribute att#28 numeric
+@attribute att#29 numeric
+@attribute class {0,1}
+
+@data
+@relation testNameSet
+
+@attribute starID numeric
+@attribute att#1 numeric
+@attribute att#2 numeric
+@attribute att#3 numeric
+@attribute att#4 numeric
+@attribute att#5 numeric
+@attribute att#6 numeric
+@attribute att#7 numeric
+@attribute att#8 numeric
+@attribute att#9 numeric
+@attribute att#10 numeric
+@attribute att#11 numeric
+@attribute att#12 numeric
+@attribute att#13 numeric
+@attribute att#14 numeric
+@attribute att#15 numeric
+@attribute att#16 numeric
+@attribute att#17 numeric
+@attribute att#18 numeric
+@attribute att#19 numeric
+@attribute att#20 numeric
+@attribute att#21 numeric
+@attribute att#22 numeric
+@attribute att#23 numeric
+@attribute att#24 numeric
+@attribute att#25 numeric
+@attribute att#26 numeric
+@attribute att#27 numeric
+@attribute att#28 numeric
+@attribute att#29 numeric
+@attribute class {0,1}
+
+@data
