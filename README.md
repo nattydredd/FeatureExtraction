@@ -11,7 +11,7 @@ Exo-AL project availabale at: https://github.com/NathanDuran/Exo-AL
 
 -To run the JAR from within its directory:
 
-java -jar FeatureExtraction.jar <host star list> <non-host star list> <set name>
+java -jar FeatureExtraction.jar {host star list} {non-host star list} {set name}
 
 -Two small test sets are included for demonstration purposes "HostTEST" and "NonHostTEST"
 
